@@ -32,7 +32,7 @@ You can install the WoE-IV-Bin Toolkit via pip:
 
 ``` bash
 
-pip install woe_iv_bin==0.1.1
+pip install woe_iv_bin==0.1.2
 ```
 
 ## Load Package
