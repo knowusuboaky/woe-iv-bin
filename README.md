@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/pypi/pyversions/woe-iv-bin.svg)](https://pypi.org/project/woe-iv-bin/)
 [![PyPI version](https://img.shields.io/pypi/v/woe-iv-bin.svg)](https://pypi.org/project/woe-iv-bin/)
-[![Downloads](https://img.shields.io/pypi/dm/woe-iv-bin.svg?label=Downloads)](https://pypi.org/project/woe-iv-bin/#files)
+[![Downloads](https://pepy.tech/badge/woe-iv-bin)](https://pepy.tech/project/woe-iv-bin)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/woe-iv-bin/main.yml)](https://github.com/knowusuboaky/woe-iv-bin/actions)
 [![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/woe-iv-bin.svg)](https://github.com/knowusuboaky/woe-iv-bin/issues)
 [![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
