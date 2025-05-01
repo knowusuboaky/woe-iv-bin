@@ -1,5 +1,14 @@
 # WoE-IV-Bin Toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Versions](https://img.shields.io/pypi/pyversions/woe-iv-bin.svg)](https://pypi.org/project/woe-iv-bin/)
+[![PyPI version](https://img.shields.io/pypi/v/woe-iv-bin.svg)](https://pypi.org/project/woe-iv-bin/)
+[![Downloads](https://img.shields.io/pypi/dm/woe-iv-bin.svg?label=Downloads)](https://pypi.org/project/woe-iv-bin/#files)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/woe-iv-bin/main.yml)](https://github.com/knowusuboaky/woe-iv-bin/actions)
+[![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/woe-iv-bin.svg)](https://github.com/knowusuboaky/woe-iv-bin/issues)
+[![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
+
+
 ## Overview
 The WoE-IV-Bin Toolkit is a comprehensive Python library designed to streamline the analysis and optimization of categorical variables through the calculation of Weight of Evidence (WoE) and Information Value (IV), along with enhanced binning strategies for continuous features. This toolkit empowers data scientists and analysts to uncover valuable insights, optimize feature engineering, and improve predictive modeling accuracy.
 
